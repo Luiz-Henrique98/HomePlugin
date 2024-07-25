@@ -1,0 +1,11 @@
+Instalação:
+
+Copie o arquivo HomePlugin-1.0-SNAPSHOT para o diretório plugins do seu servidor Minecraft.
+
+Configuração do MySQL:
+
+Certifique-se de que o banco de dados MySQL esteja configurado corretamente e que o arquivo config.yml tenha as informações corretas de conexão.
+
+Inicialização:
+
+Inicie o servidor Minecraft. O plugin será carregado automaticamente, e as configurações serão aplicadas conforme definidas.

@@ -1,0 +1,12 @@
+name: HomePlugin
+version: 1.0
+main: com.example.homeplugin.HomePlugin
+api-version: 1.21
+description: Plugin de home com cooldown, partículas e MySQL
+commands:
+  home:
+    description: Teletransporta para a home
+    usage: /home
+  sethome:
+    description: Define a localização da home
+    usage: /sethome

@@ -1,0 +1,4 @@
+HomePlugin.java: Inicializa o plugin, conecta ao banco de dados e registra os comandos e eventos.
+HomeCommand.java: Gerencia os comandos /home e /sethome. Define a localização da home e teletransporta o jogador para a home, aplicando cooldown e partículas conforme configurado.
+HomeDatabase.java: Conecta ao banco de dados MySQL, cria a tabela de homes, salva e recupera a localização da home e gerencia o cooldown dos comandos.
+HomeListener.java: Pode ser expandido para adicionar mais funcionalidades relacionadas ao plugin de home.
